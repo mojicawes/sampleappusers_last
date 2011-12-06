@@ -1,0 +1,7 @@
+This is another sample_app project and workspace in preparation for class on 11/22/11. 
+
+It adds additional validations and stores successful entries in the database. We also implement
+capabilities for listing what is in the database table.
+
+The starting point for the class is in the Master branch.  The desired ending point for the class
+is in the user-model branch.

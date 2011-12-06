@@ -1,0 +1,8 @@
+<h1><%= @title %> </h1>
+
+<% unless @users.empty? %>
+<ul>
+	 <%= render @users %>
+</ul>
+<%= will_paginate @users %>
+<% end %>
